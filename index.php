@@ -700,18 +700,18 @@
                 <div class="speakers__item">
                     <div class="speakers__item-pic">
                         <picture>
-                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/tinas.jpg" alt="">
                         </picture>
                     </div>
-<!--                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">-->
-<!--                        <img src="--><?php //echo STANDART_DIR; ?><!--img/speakers/sber.png" alt="" class="speakers__item-logo-img">-->
-<!--                    </div>-->
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/t2.png" alt="" class="speakers__item-logo-img">
+                    </div>
                     <div class="speakers__item-info">
                         <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
-                            t2. <br> Тинас Алевтина
+                            T2. <br> Тинас Алевтина
                         </h3>
                         <div class="speakers__item-position text text--small text--primary text--w-medium">
-
+                            Директор по управлению данными
                         </div>
                     </div>
                 </div>
@@ -772,12 +772,12 @@
                 <div class="speakers__item">
                     <div class="speakers__item-pic">
                         <picture>
-                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/shmetova.jpg" alt="">
                         </picture>
                     </div>
-<!--                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">-->
-<!--                        <img src="--><?php //echo STANDART_DIR; ?><!--img/speakers/otp.png" alt="" class="speakers__item-logo-img">-->
-<!--                    </div>-->
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/npk.png" alt="" class="speakers__item-logo-img">
+                    </div>
                     <div class="speakers__item-info">
                         <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
                             Национальная платежная система Казахстана. <br> Шеметова Анастасия
@@ -934,15 +934,87 @@
                             <img src="<?php echo STANDART_DIR; ?>img/speakers/valin.jpg" alt="">
                         </picture>
                     </div>
-<!--                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">-->
-<!--                        <img src="--><?php //echo STANDART_DIR; ?><!--img/speakers/union.jpg" alt="" class="speakers__item-logo-img">-->
-<!--                    </div>-->
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/rosteh.svg" alt="" class="speakers__item-logo-img">
+                    </div>
                     <div class="speakers__item-info">
                         <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
                             Ростех. <br> Валин Максим
                         </h3>
                         <div class="speakers__item-position text text--small text--primary text--w-medium">
                             Директор по цифровой трансформации
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/erikalov.jpg" alt="">
+                        </picture>
+                    </div>
+                    <!--                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">-->
+                    <!--                        <img src="--><?php //echo STANDART_DIR; ?><!--img/speakers/union.jpg" alt="" class="speakers__item-logo-img">-->
+                    <!--                    </div>-->
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            Ерыкалов Василий
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Заместитель начальника Управления технической политики в ИТ - главный архитектор ГК Ростатом
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/frolov.jpg" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/sberteh.svg" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            Сбер Тех. <br> Фролов Дмитрий
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Исполнительный директор
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                        </picture>
+                    </div>
+<!--                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">-->
+<!--                        <img src="--><?php //echo STANDART_DIR; ?><!--img/speakers/sberteh.svg" alt="" class="speakers__item-logo-img">-->
+<!--                    </div>-->
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            Мособлгаз. <br> Климов Дмитрий
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Директор по цифровой трансформации
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/pb.jpg" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            Почта Банк. <br> Елистратова Ирина
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Старший вице-президент, директор по цифровому бизнесу и развитию отношений с клиентами Почта Банка
                         </div>
                     </div>
                 </div>
@@ -1394,12 +1466,12 @@
                                              Сбер. <br> Трофимов Дмитрий
                                         </div>
                                         <div class="program__speaker-pos text text--normal text--brown text--w-medium">
-                                            Управляющий Цифровой трансформации
+                                            Управляющий директор
                                         </div>
                                     </div>
                                     <div class="program__speaker">
                                         <div class="program__speaker-photo">
-                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/frolov.jpg" alt="" class="program__speaker-img">
                                         </div>
                                         <div class="program__speaker-name text text--medium text--primary text--w-semibold">
                                             Сбер Тех. <br> Фролов Дмитрий
@@ -1469,7 +1541,7 @@
                         </div>
                         <div class="program__info">
                             <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
-                                Решение Селена: новая веха в хранении и управлении данными
+                                Launch Селены - системы класса Data Lakehouse
                             </div>
                             <div class="program__speakers">
                                 <div class="program__speaker">
@@ -1477,10 +1549,10 @@
                                         <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
                                     </div>
                                     <div class="program__speaker-name text text--medium text--primary text--w-semibold">
-                                        Национальная платежная система Казахстана. <br>  Шеметова Анастасия
+                                        Замула Дмитрий
                                     </div>
                                     <div class="program__speaker-pos text text--normal text--brown text--w-medium">
-                                        Руководитель направления аналитики данных
+                                        Технический директор
                                     </div>
                                 </div>
                             </div>
@@ -1610,13 +1682,13 @@
                                     </div>
                                     <div class="program__speaker">
                                         <div class="program__speaker-photo">
-                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/tinas.jpg" alt="" class="program__speaker-img">
                                         </div>
                                         <div class="program__speaker-name text text--medium text--primary text--w-semibold">
-                                            Tele2. <br> Тинас Алевтина
+                                            T2. <br> Тинас Алевтина
                                         </div>
                                         <div class="program__speaker-pos text text--normal text--brown text--w-medium">
-
+                                            Директор по управлению данными
                                         </div>
                                     </div>
                                 </div>
@@ -1698,6 +1770,28 @@
                                         </div>
                                         <div class="program__speaker-pos text text--normal text--brown text--w-medium">
                                             Управляющий директор, владелец продукта Gigachat
+                                        </div>
+                                    </div>
+                                    <div class="program__speaker">
+                                        <div class="program__speaker-photo">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/erikalov.jpg" alt="" class="program__speaker-img">
+                                        </div>
+                                        <div class="program__speaker-name text text--medium text--primary text--w-semibold">
+                                            Ерыкалов Василий
+                                        </div>
+                                        <div class="program__speaker-pos text text--normal text--brown text--w-medium">
+                                            Заместитель начальника Управления технической политики в ИТ - главный архитектор ГК Ростатом
+                                        </div>
+                                    </div>
+                                    <div class="program__speaker">
+                                        <div class="program__speaker-photo">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
+                                        </div>
+                                        <div class="program__speaker-name text text--medium text--primary text--w-semibold">
+                                            Мособлгаз. <br> Климов Дмитрий
+                                        </div>
+                                        <div class="program__speaker-pos text text--normal text--brown text--w-medium">
+                                            Директор по цифровой трансформации
                                         </div>
                                     </div>
                                 </div>
@@ -1913,7 +2007,20 @@
                             </div>
                             <div class="program__info">
                                 <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
-                                    Готовим актуальный контент
+
+                                </div>
+                                <div class="program__speakers">
+                                    <div class="program__speaker">
+                                        <div class="program__speaker-photo">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/trofimov.jpg" alt="" class="program__speaker-img">
+                                        </div>
+                                        <div class="program__speaker-name text text--medium text--primary text--w-semibold">
+                                            Сбер. <br> Трофимов Дмитрий
+                                        </div>
+                                        <div class="program__speaker-pos text text--normal text--brown text--w-medium">
+                                            Управляющий директор
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -2011,11 +2118,24 @@
                         </div>
                         <div class="program__tr-inner d-flex d-flex-column">
                             <div class="program__time title title--pre-large title--blue title--w-semibold title--uppercase">
-                                17:15 — 17:45
+                                17:15 — 17:30
                             </div>
                             <div class="program__info">
                                 <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
-                                    Готовим актуальный контент
+                                    Селена, AI и Iceberg: трансформация аналитики в НПК
+                                </div>
+                                <div class="program__speakers">
+                                    <div class="program__speaker">
+                                        <div class="program__speaker-photo">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/shmetova.jpg" alt="" class="program__speaker-img">
+                                        </div>
+                                        <div class="program__speaker-name text text--medium text--primary text--w-semibold">
+                                            Национальная Платежная Корпорация Национального Банка Республики Казахстан. <br> Шеметова Анастасия
+                                        </div>
+                                        <div class="program__speaker-pos text text--normal text--brown text--w-medium">
+                                            Руководитель направления аналитики данных
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -2097,6 +2217,33 @@
                                             Советник генерального директора по цифровой трансформации
                                         </div>
                                     </div>
+                                    <div class="program__speaker">
+                                        <div class="program__speaker-photo">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
+                                        </div>
+                                        <div class="program__speaker-name text text--medium text--primary text--w-semibold">
+                                            Почта Банк. <br> Елистратова Ирина
+                                        </div>
+                                        <div class="program__speaker-pos text text--normal text--brown text--w-medium">
+                                            Старший вице-президент, директор по цифровому бизнесу и развитию отношений с клиентами Почта Банка
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Технологическая -->
+                    <div class="program__tr program__tr--elem-grid">
+                        <div class="program__hol text text--normal text--blue text--w-regular text--uppercase">
+                            Зал ROCKEFELLER
+                        </div>
+                        <div class="program__tr-inner d-flex d-flex-column">
+                            <div class="program__time title title--pre-large title--blue title--w-semibold title--uppercase">
+                                17:30 — 17:45
+                            </div>
+                            <div class="program__info">
+                                <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
+                                    Готовим актуальный контент
                                 </div>
                             </div>
                         </div>
