@@ -657,7 +657,7 @@
                             Форсайт. <br> Максименко Оксана
                         </h3>
                         <div class="speakers__item-position text text--small text--primary text--w-medium">
-                            Руководитель отдела
+                            Руководитель отдела продвижения продуктов
                         </div>
                     </div>
                 </div>
@@ -718,18 +718,18 @@
                 <div class="speakers__item">
                     <div class="speakers__item-pic">
                         <picture>
-                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/gremicki.jpg" alt="">
                         </picture>
                     </div>
 <!--                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">-->
-<!--                        <img src="--><?php //echo STANDART_DIR; ?><!--img/speakers/sber.png" alt="" class="speakers__item-logo-img">-->
+<!--                        <img src="--><?php //echo STANDART_DIR; ?><!--img/speakers/avtovaz.png" alt="" class="speakers__item-logo-img">-->
 <!--                    </div>-->
                     <div class="speakers__item-info">
                         <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
                             Автоваз. <br>  Гремитских Наталья
                         </h3>
                         <div class="speakers__item-position text text--small text--primary text--w-medium">
-
+                            Директор проекта диджитал маркетинга LADA, Автоваз
                         </div>
                     </div>
                 </div>
@@ -916,9 +916,9 @@
                             <img src="<?php echo STANDART_DIR; ?>img/speakers/shvedov.jpg" alt="">
                         </picture>
                     </div>
-<!--                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">-->
-<!--                        <img src="--><?php //echo STANDART_DIR; ?><!--img/speakers/samolet.jpeg" alt="" class="speakers__item-logo-img">-->
-<!--                    </div>-->
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/evrohim.jpg" alt="" class="speakers__item-logo-img">
+                    </div>
                     <div class="speakers__item-info">
                         <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
                             Еврохим. <br> Шведов Дмитрий
@@ -952,9 +952,9 @@
                             <img src="<?php echo STANDART_DIR; ?>img/speakers/erikalov.jpg" alt="">
                         </picture>
                     </div>
-                    <!--                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">-->
-                    <!--                        <img src="--><?php //echo STANDART_DIR; ?><!--img/speakers/union.jpg" alt="" class="speakers__item-logo-img">-->
-                    <!--                    </div>-->
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/rosatom.png" alt="" class="speakers__item-logo-img">
+                    </div>
                     <div class="speakers__item-info">
                         <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
                             Ерыкалов Василий
@@ -1015,6 +1015,114 @@
                         </h3>
                         <div class="speakers__item-position text text--small text--primary text--w-medium">
                             Старший вице-президент, директор по цифровому бизнесу и развитию отношений с клиентами Почта Банка
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/zamula.jpg" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/selena.svg" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            Платформа Данных Селена. <br> Замула Дмитрий
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Технический директор
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/bagley.jpg" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/cifrum.png" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            Цифрум. <br> Баглей Дмитрий
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/ctp.jpg" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            Цифровые Технологии и Платформы. <br> Рудаков Дмитрий
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Руководитель направления архитектуры НСИ
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/skolkovo.png" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            Фонд Сколково. <br> Веневцев Андрей
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Руководитель направления по управлению данными
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/moshnina.jpg" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/cloud.svg" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            Cloud.ru. <br> Мошнина Гузелия Викторовна
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Технический эксперт по платформе данных
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/rshb.png" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            РСХБ-Интех. <br> Колошеин Юрий
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Руководитель ЦК развития Озера данных и интеграционных решений
                         </div>
                     </div>
                 </div>
@@ -1206,13 +1314,28 @@
                     </div>
                 </div>
 
-                <div class="program__tr program__tr--gen">
+                <div class="program__tr program__tr--full">
                     <div class="program__tr-inner d-flex">
                         <div class="program__time title title--pre-large title--mint title--w-semibold title--uppercase">
                             11:20 — 11:40
                         </div>
-                        <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
-                            Выступление генерального спонсора
+                        <div class="program__info">
+                            <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
+                                Data LakeHouse в облаке, гибкие инструменты хранения и обработки больших данных
+                            </div>
+                            <div class="program__speakers">
+                                <div class="program__speaker">
+                                    <div class="program__speaker-photo">
+                                        <img src="<?php echo STANDART_DIR; ?>img/speakers/moshnina.jpg" alt="" class="program__speaker-img">
+                                    </div>
+                                    <div class="program__speaker-name text text--medium text--primary text--w-semibold">
+                                        Cloud.ru. <br> Мошнина Гузелия Викторовна
+                                    </div>
+                                    <div class="program__speaker-pos text text--normal text--brown text--w-medium">
+                                        Технический эксперт по платформе данных
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1546,10 +1669,10 @@
                             <div class="program__speakers">
                                 <div class="program__speaker">
                                     <div class="program__speaker-photo">
-                                        <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
+                                        <img src="<?php echo STANDART_DIR; ?>img/speakers/zamula.jpg" alt="" class="program__speaker-img">
                                     </div>
                                     <div class="program__speaker-name text text--medium text--primary text--w-semibold">
-                                        Замула Дмитрий
+                                        Платформа Данных Селена. <br> Замула Дмитрий
                                     </div>
                                     <div class="program__speaker-pos text text--normal text--brown text--w-medium">
                                         Технический директор
@@ -1641,10 +1764,10 @@
                                             <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
                                         </div>
                                         <div class="program__speaker-name text text--medium text--primary text--w-semibold">
-                                            СУЭК. <br> Рудаков Дмитрий
+                                            Цифровые Технологии и Платформы. <br> Рудаков Дмитрий
                                         </div>
                                         <div class="program__speaker-pos text text--normal text--brown text--w-medium">
-
+                                            Руководитель направления архитектуры НСИ
                                         </div>
                                     </div>
                                     <div class="program__speaker">
@@ -1671,17 +1794,6 @@
                                     </div>
                                     <div class="program__speaker">
                                         <div class="program__speaker-photo">
-                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
-                                        </div>
-                                        <div class="program__speaker-name text text--medium text--primary text--w-semibold">
-                                            Цифрум. <br> Баглей Дмитрий
-                                        </div>
-                                        <div class="program__speaker-pos text text--normal text--brown text--w-medium">
-
-                                        </div>
-                                    </div>
-                                    <div class="program__speaker">
-                                        <div class="program__speaker-photo">
                                             <img src="<?php echo STANDART_DIR; ?>img/speakers/tinas.jpg" alt="" class="program__speaker-img">
                                         </div>
                                         <div class="program__speaker-name text text--medium text--primary text--w-semibold">
@@ -1689,6 +1801,17 @@
                                         </div>
                                         <div class="program__speaker-pos text text--normal text--brown text--w-medium">
                                             Директор по управлению данными
+                                        </div>
+                                    </div>
+                                    <div class="program__speaker">
+                                        <div class="program__speaker-photo">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/bagley.jpg" alt="" class="program__speaker-img">
+                                        </div>
+                                        <div class="program__speaker-name text text--medium text--primary text--w-semibold">
+                                            Цифрум. <br> Баглей Дмитрий
+                                        </div>
+                                        <div class="program__speaker-pos text text--normal text--brown text--w-medium">
+
                                         </div>
                                     </div>
                                 </div>
@@ -1741,13 +1864,13 @@
                                     </div>
                                     <div class="program__speaker">
                                         <div class="program__speaker-photo">
-                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/gremicki.jpg" alt="" class="program__speaker-img">
                                         </div>
                                         <div class="program__speaker-name text text--medium text--primary text--w-semibold">
                                             Автоваз. <br> Гремитских Наталья
                                         </div>
                                         <div class="program__speaker-pos text text--normal text--brown text--w-medium">
-
+                                            Директор проекта диджитал маркетинга LADA
                                         </div>
                                     </div>
                                     <div class="program__speaker">
@@ -2039,7 +2162,7 @@
                             </div>
                             <div class="program__info">
                                 <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
-                                    GebAI/ИИ трансформация бизнеса и кейсы и практика использования LLM
+                                    GenAI/ИИ трансформация бизнеса и кейсы и практика использования LLM
                                 </div>
                                 <div class="program__speakers">
                                     <div class="program__speaker">
@@ -2068,7 +2191,7 @@
                             </div>
                             <div class="program__info">
                                 <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
-                                    Тема уточняется
+                                    Performance Management как драйвер развития Data Governance
                                 </div>
                                 <div class="program__speakers">
                                     <div class="program__speaker">
@@ -2295,7 +2418,7 @@
                             </div>
                             <div class="program__info">
                                 <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
-                                    Референсная архитектура современного предприятия
+                                    Референсная архитектура  платформы управления данными современного предприятия
                                 </div>
                                 <div class="program__speakers">
                                     <div class="program__speaker">
@@ -2335,7 +2458,7 @@
                                             Форсайт. <br> Максименко Оксана
                                         </div>
                                         <div class="program__speaker-pos text text--normal text--brown text--w-medium">
-                                            Руководитель отдела
+                                            Руководитель отдела продвижения продуктов
                                         </div>
                                     </div>
                                 </div>
