@@ -267,6 +267,24 @@
                 <div class="speakers__item">
                     <div class="speakers__item-pic">
                         <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/sorokina.jpg" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/vsk.jpg" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            ВСК. <br> Сорокина Ольга
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Член Совета директоров Страхового Дома ВСК
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
                             <img src="<?php echo STANDART_DIR; ?>img/speakers/chulok.jpg" alt="">
                         </picture>
                     </div>
@@ -877,7 +895,7 @@
                 <div class="speakers__item">
                     <div class="speakers__item-pic">
                         <picture>
-                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/svitneva.jpg" alt="">
                         </picture>
                     </div>
                     <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
@@ -1050,14 +1068,14 @@
                             Цифрум. <br> Баглей Дмитрий
                         </h3>
                         <div class="speakers__item-position text text--small text--primary text--w-medium">
-
+                            Заместитель генерального директора по проектам, технологиям и инновациям
                         </div>
                     </div>
                 </div>
                 <div class="speakers__item">
                     <div class="speakers__item-pic">
                         <picture>
-                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/rudakov.png" alt="">
                         </picture>
                     </div>
                     <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
@@ -1075,7 +1093,7 @@
                 <div class="speakers__item">
                     <div class="speakers__item-pic">
                         <picture>
-                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="">
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/venevcev.jpg" alt="">
                         </picture>
                     </div>
                     <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
@@ -1123,6 +1141,60 @@
                         </h3>
                         <div class="speakers__item-position text text--small text--primary text--w-medium">
                             Руководитель ЦК развития Озера данных и интеграционных решений
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/fedotkin.jpeg" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/dis.png" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            РСХБ-Интех. <br> Федоткин Николай
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Технический менеджер
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/hasanov.jpeg" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/dis.png" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            DIS Group. <br> Хасанов Василий
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Заместитель технического директора
+                        </div>
+                    </div>
+                </div>
+                <div class="speakers__item">
+                    <div class="speakers__item-pic">
+                        <picture>
+                            <img src="<?php echo STANDART_DIR; ?>img/speakers/yakimenko.jpg" alt="">
+                        </picture>
+                    </div>
+                    <div class="speakers__item-logo d-flex flex-justify-center flex-align-center">
+                        <img src="<?php echo STANDART_DIR; ?>img/speakers/union.jpg" alt="" class="speakers__item-logo-img">
+                    </div>
+                    <div class="speakers__item-info">
+                        <h3 class="speakers__item-name text text--medium text--primary text--w-semibold">
+                            Юникон Бизнес Солюшнс. <br> Якименко Андрей
+                        </h3>
+                        <div class="speakers__item-position text text--small text--primary text--w-medium">
+                            Генеральный директор
                         </div>
                     </div>
                 </div>
@@ -1404,7 +1476,7 @@
                                 </div>
                                 <div class="program__speaker">
                                     <div class="program__speaker-photo">
-                                        <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
+                                        <img src="<?php echo STANDART_DIR; ?>img/speakers/yakimenko.jpg" alt="" class="program__speaker-img">
                                     </div>
                                     <div class="program__speaker-name text text--medium text--primary text--w-semibold">
                                         Юникон Бизнес Солюшнс. <br> Якименко Андрей
@@ -1761,7 +1833,7 @@
                                 <div class="program__speakers">
                                     <div class="program__speaker">
                                         <div class="program__speaker-photo">
-                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/rudakov.png" alt="" class="program__speaker-img">
                                         </div>
                                         <div class="program__speaker-name text text--medium text--primary text--w-semibold">
                                             Цифровые Технологии и Платформы. <br> Рудаков Дмитрий
@@ -1811,7 +1883,7 @@
                                             Цифрум. <br> Баглей Дмитрий
                                         </div>
                                         <div class="program__speaker-pos text text--normal text--brown text--w-medium">
-
+                                            Заместитель генерального директора по проектам, технологиям и инновациям
                                         </div>
                                     </div>
                                 </div>
@@ -2298,7 +2370,18 @@
                                 <div class="program__speakers">
                                     <div class="program__speaker">
                                         <div class="program__speaker-photo">
-                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/sorokina.jpg" alt="" class="program__speaker-img">
+                                        </div>
+                                        <div class="program__speaker-name text text--medium text--primary text--w-semibold">
+                                            ВСК. <br> Сорокина Ольга
+                                        </div>
+                                        <div class="program__speaker-pos text text--normal text--brown text--w-medium">
+                                            Член Совета директоров Страхового Дома ВСК
+                                        </div>
+                                    </div>
+                                    <div class="program__speaker">
+                                        <div class="program__speaker-photo">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/svitneva.jpg" alt="" class="program__speaker-img">
                                         </div>
                                         <div class="program__speaker-name text text--medium text--primary text--w-semibold">
                                             Самолет. <br> Ольга Свитнева
@@ -2366,7 +2449,20 @@
                             </div>
                             <div class="program__info">
                                 <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
-                                    Готовим актуальный контент
+                                    ДатаФлот - репликация со скоростью в 2 Маха
+                                </div>
+                                <div class="program__speakers">
+                                    <div class="program__speaker">
+                                        <div class="program__speaker-photo">
+                                            <img src="<?php echo STANDART_DIR; ?>img/speakers/hasanov.jpeg" alt="" class="program__speaker-img">
+                                        </div>
+                                        <div class="program__speaker-name text text--medium text--primary text--w-semibold">
+                                            DIS Group. <br> Хасанов Василий
+                                        </div>
+                                        <div class="program__speaker-pos text text--normal text--brown text--w-medium">
+                                            Заместитель технического директора
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -2382,23 +2478,20 @@
                         <div class="program__time title title--pre-large title--blue title--w-semibold title--uppercase">
                             17:45 — 18:00
                         </div>
-                        <div class="program__time title title--pre-large title--blue title--w-semibold title--uppercase">
-                            Готовим актуальный контент
-                        </div>
                         <div class="program__info">
                             <div class="program__title title title--pre-large title--primary title--w-semibold title--uppercase">
-                                Тема уточняется
+                                ФормИт - надёжная интеграция, сопоставление со стриминг-подходом
                             </div>
                             <div class="program__speakers">
                                 <div class="program__speaker">
                                     <div class="program__speaker-photo">
-                                        <img src="<?php echo STANDART_DIR; ?>img/speakers/team-avatar.png" alt="" class="program__speaker-img">
+                                        <img src="<?php echo STANDART_DIR; ?>img/speakers/fedotkin.jpeg" alt="" class="program__speaker-img">
                                     </div>
                                     <div class="program__speaker-name text text--medium text--primary text--w-semibold">
-                                        Спикер уточняется
+                                        DIS Group. <br> Федоткин Николай
                                     </div>
                                     <div class="program__speaker-pos text text--normal text--brown text--w-medium">
-
+                                        Технический менеджер
                                     </div>
                                 </div>
                             </div>
